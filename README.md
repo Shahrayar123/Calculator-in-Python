@@ -1,2 +1,2 @@
 # Calculator-in-Python
-# I will add additional features calculator in future
+## I will add additional features in this calculator in future.
